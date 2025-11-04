@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data & models (large or sensitive)
+data/raw/
+data/processed/
+models/*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
